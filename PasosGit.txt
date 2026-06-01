@@ -1,0 +1,11 @@
+Pasos
+1.- Tener instalado git en computador(en las ya está)
+2.- Crear carpeta donde voy a trabajar, y dentro mi codigo 
+3.- Crear repositorio local (git init)
+4.- Llevar mi código al área de trabajo (git add .)
+5.- Creo mi repositorio en linea (GitHub.com para copiar y pegar comandos)
+6.- Grabar en mi repositorio local(git commit)
+7.- Decirle trabajo en la raiz (branch)
+8.- configura origin remoto ( con mi link de repositorio)
+9.- Sube mi repositorio (git push)
+
