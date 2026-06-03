@@ -4,3 +4,5 @@ print("Me encontré")
 print("Y me perdí denuvo")
 print("Pero me volví a ubicar")
 print("Practicando con Github")
+print("Comentario tres")
+# Hoy comenzamos con listas
