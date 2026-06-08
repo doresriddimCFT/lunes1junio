@@ -1,9 +1,4 @@
-print("Hola mundo")
-print("Hola mundo 2")
-print("Me encontré")
-print("Y me perdí denuvo")
-print("Pero me volví a ubicar")
-print("Practicando con Github")
-print("Comentario tres")
-# Hoy comenzamos con listas
-# Otro Comentario
+#Practicando github en línea
+print(Cabeza dura no entiendes)
+print(Resetea tu cerebro)
+print(Cabeza hueca se te olvido setear el guardado automático)
